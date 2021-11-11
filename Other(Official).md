@@ -151,3 +151,8 @@
 	    return res;
 	}
 
+
+# 打印二进制的形式
+	int c = -315;
+	bitset<16> y(c);
+	cout << y << '\n';
