@@ -1,5 +1,25 @@
 #数据结构&杂项
 
+	#include<bits/stdc++.h> 
+	using namespace std;
+	#define _for(i, a, b) for(int i = a; i <= b; i++)
+	#define _memset(a, b) memset(a, b, sizeof a)
+	#define endl '\n'
+	#define IOS 	std::ios::sync_with_stdio(false); cin.tie(0), cout.tie(0);
+	typedef long long ll;
+	typedef long long LL;
+	typedef pair<int, int> PII;
+	const int N = 1e5 + 5;
+	const int INF = 0x3f3f3f3f;
+
+
+
+	int main(){
+	    IOS
+	    return 0;
+	}
+
+
 #子集枚举
 
 真子集枚举
