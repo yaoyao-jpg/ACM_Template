@@ -156,3 +156,5 @@
 	int c = -315;
 	bitset<16> y(c);
 	cout << y << '\n';
+
+# random_shuffle(v.begin(), v.end());
